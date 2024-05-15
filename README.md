@@ -17,6 +17,6 @@ In this project, three architectures of CNN were used:
 About the third architecture, you can read more here: https://arxiv.org/abs/1712.03400
 
 ## Results
-The best result was received with the CNN + Inception-ResNet-v2 model. You can find the code in 'best_model.ipynb'.
+The best result was received with the CNN + Inception-ResNet-v2 model. You can find the code in 'inception.ipynb'.
 
 <img width="952" alt="image" src="https://github.com/tania5496/Image-Colorization-ML-project-/assets/116711583/7bda0aae-106c-4256-8409-59bc80ea2440">
